@@ -1,2 +1,2 @@
 # gitHello
-Meu primeiro gir com GitHub
+Meu primeiro git com GitHub
